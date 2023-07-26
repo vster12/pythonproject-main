@@ -1,0 +1,6 @@
+qwer@qwer.com 012431234 20/04/03 Mat.001,Mat.002,Sig.001 Nguyen Van A
+qwer@gmail.com 012431234 20/12/03 Mat.001,Phy.001 Le Van B
+qwer@abcd.com 012431234 15/07/03 Mat.001,Phy.001 John Smith
+qwer@yahoo.com 012431234 04/02/03 Mat.002,Phy.001 Arnold Johnson
+qwer@yahoo.com 012431234 17/01/03 Sig.001,Bio.001 John Titor
+qwer@yahoo.com 012431234 11/08/03 Mat.002,Bio.001 Shinji
